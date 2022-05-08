@@ -12,6 +12,7 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 ![](/documentation_images/compileC.PNG)
 
 2. Run the Account.o object file
+
 ![](/documentation_images/executeC.PNG)
 
 ## Example Output
@@ -20,6 +21,7 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 ### Python Program
 ## Program Translation and Execution
 1. Interpret and run the Account.py program
+
 ![](/documentation_images/executePy.PNG)
 
 ## Example Output

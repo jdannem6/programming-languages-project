@@ -8,20 +8,20 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 ### C Program
 ## Program Translation and Execution
 1. Compile the program Account.c and produce object file Account.o
-![](/documentation_images/compileC.png)
+![](/documentation_images/compileC.PNG)
 
 2. Run the Account.o object file
-![](/documentation_images/executeC.png)
+![](/documentation_images/executeC.PNG)
 
 ## Example Output
-![](sample_output_C.png)
+![](sample_output_C.PNG)
 
 ### Python Program
 ## Program Translation and Execution
 1. Interpret and run the Account.py program
-![](/documentation_images/executePy.png)
+![](/documentation_images/executePy.PNG)
 
 ## Example Output
-![](sample_Output_Py.png)
+![](sample_Output_Py.PNG)
 
  

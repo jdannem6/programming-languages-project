@@ -8,6 +8,7 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 ### C Program
 ## Program Translation and Execution
 1. Compile the program Account.c and produce object file Account.o
+
 ![](/documentation_images/compileC.PNG)
 
 2. Run the Account.o object file
@@ -23,5 +24,8 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 
 ## Example Output
 ![](/documentation_images/sample_output_Py.PNG)
+
+
+
 
  

@@ -14,7 +14,7 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 ![](/documentation_images/executeC.PNG)
 
 ## Example Output
-![](sample_output_C.PNG)
+![](/documentation_images/sample_output_C.PNG)
 
 ### Python Program
 ## Program Translation and Execution
@@ -22,6 +22,6 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 ![](/documentation_images/executePy.PNG)
 
 ## Example Output
-![](sample_output_Py.PNG)
+![](/documentation_images/sample_output_Py.PNG)
 
  

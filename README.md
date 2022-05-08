@@ -9,6 +9,10 @@ The program emulates the creation and modification of a customer record at their
 ### Prerequisites
 This project was tested with a system consisting of a gcc compiler, a gdb debugger, Python3.9.12, and a Windows 10 Pro operating system
 
+## Installation
+1. Clone the repository
+
+![](/documentation_images/repo_cloning.PNG)
 ### C Program
 ## Program Translation and Execution
 1. Compile the program Account.c and produce object file Account.o

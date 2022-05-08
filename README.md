@@ -22,6 +22,6 @@ This project was tested with a system consisting of a gcc compiler, a gdb debugg
 ![](/documentation_images/executePy.PNG)
 
 ## Example Output
-![](sample_Output_Py.PNG)
+![](sample_output_Py.PNG)
 
  
